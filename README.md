@@ -2,7 +2,7 @@
 
 ## Regular files
 
-  * [Meeting in Bag End.docx](regular-files/Meeting in Bag End.docx): Created
+  * [Meeting in Bag End.docx](regular-files/Meeting%20in%20Bag%20End.docx): Created
     with Microsoft Word 2010.
 
 ## Problematic files
